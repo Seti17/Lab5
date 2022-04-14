@@ -13,7 +13,7 @@ L.Control.Slider = L.Control.extend({
         value: 50,
         collapsed: true,
         title: 'Leaflet Slider',
-        logo: 'S',
+        logo: 'T',
         orientation: 'horizontal',
         increment: false,
         getValue: function(value) {
