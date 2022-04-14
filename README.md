@@ -16,7 +16,8 @@ The Lab5 repository includes 2 files:
 
 Index.html: Using Leaflet for preparing page and setting up the Calgary's map, and can draw a polyline on it and simplify the polyline with Turf.js which it is based on Simplify.js. 
 
-
+###Website:
+https://seti17.github.io/Lab5/
 
 #### References:
 https://leafletjs.com/
