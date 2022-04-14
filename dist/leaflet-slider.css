@@ -4,12 +4,12 @@
     border-radius: 5px;
 }
 a.leaflet-control-slider-toggle {
-    width: 36px;
-    height: 36px;
+    width: 30px;
+    height: 30px;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     display: block;
-    line-height: 36px !important;
+    line-height: 30px !important;
     font-weight: bolder;
     text-align: center;
     text-decoration: none;
@@ -28,8 +28,8 @@ a.leaflet-control-slider-toggle {
     display:none;
 }
 .leaflet-control-slider.leaflet-control-slider-horizontal p.leaflet-control-slider-value {
-    line-height: 36px;
-    height: 36px;
+    line-height: 30px;
+    height: 30px;
     margin: 0px 0px 0px 0px;
     border-right: 1px solid #CCC;
     width: 35px;
@@ -55,15 +55,15 @@ a.leaflet-control-slider-toggle {
     float :right;
     clear:none;
     width: 90%;
-    height:36px;
+    height:30px;
 }
 .leaflet-control-slider.leaflet-control-slider-horizontal input.leaflet-slider {
-    height:36px;
+    height:30px;
 }
 
 .leaflet-control-slider.leaflet-control-slider-vertical input.leaflet-slider{
     writing-mode: bt-lr;
-    width: 36px;
+    width: 30px;
     height:100%;
 }
 
@@ -189,12 +189,12 @@ a.leaflet-control-slider-toggle {
 
 
 .leaflet-control-slider-plus, .leaflet-control-slider-minus{
-    width: 36px;
-    height: 36px;
+    width: 30px;
+    height: 30px;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     display: block;
-    line-height: 32px !important;
+    line-height: 26px !important;
     font-weight: bolder;
     text-align: center;
     vertical-align: middle;
